@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-harperdb-movie-list.git/static/css/main.f1ab05d5.chunk.css",
+    "main.js": "/react-harperdb-movie-list.git/static/js/main.6fc75345.chunk.js",
+    "main.js.map": "/react-harperdb-movie-list.git/static/js/main.6fc75345.chunk.js.map",
+    "runtime-main.js": "/react-harperdb-movie-list.git/static/js/runtime-main.2593da7b.js",
+    "runtime-main.js.map": "/react-harperdb-movie-list.git/static/js/runtime-main.2593da7b.js.map",
+    "static/js/2.3e2a5fa2.chunk.js": "/react-harperdb-movie-list.git/static/js/2.3e2a5fa2.chunk.js",
+    "static/js/2.3e2a5fa2.chunk.js.map": "/react-harperdb-movie-list.git/static/js/2.3e2a5fa2.chunk.js.map",
+    "static/js/3.a046286b.chunk.js": "/react-harperdb-movie-list.git/static/js/3.a046286b.chunk.js",
+    "static/js/3.a046286b.chunk.js.map": "/react-harperdb-movie-list.git/static/js/3.a046286b.chunk.js.map",
+    "index.html": "/react-harperdb-movie-list.git/index.html",
+    "static/css/main.f1ab05d5.chunk.css.map": "/react-harperdb-movie-list.git/static/css/main.f1ab05d5.chunk.css.map",
+    "static/js/2.3e2a5fa2.chunk.js.LICENSE.txt": "/react-harperdb-movie-list.git/static/js/2.3e2a5fa2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2593da7b.js",
+    "static/js/2.3e2a5fa2.chunk.js",
+    "static/css/main.f1ab05d5.chunk.css",
+    "static/js/main.6fc75345.chunk.js"
+  ]
+}
